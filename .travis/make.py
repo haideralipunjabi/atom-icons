@@ -32,11 +32,11 @@ def make_readme():
         lines.append("These icons were contributed by: @" + s['contributor'] + "\n")
         for file in os.listdir('svg'):
             if(file.split('_')[0] == s['prefix'] and file.endswith('.svg')):
-                lines.append("<img alt=\"%s\" src=\"%s\" width=\"128px\""%(file, 'svg/'+file))
+                lines.append("<img alt=\"%s\" src=\"%s\" width=\"128px\">"%(file, 'svg/'+file))
     lines.append("### Others\n")
     for file in os.listdir('svg'):
         if(not file.__contains__('_') and file.endswith('.svg')):
-            lines.append("<img alt=\"%s\" src=\"%s\" width=\"128px\""%(file, 'svg/'+file))
+            lines.append("<img alt=\"%s\" src=\"%s\" width=\"128px\">"%(file, 'svg/'+file))
     lines.append("\n")
     lines.extend(endlines)
     print(' '.join(lines), file=open('README.md', 'w'))
