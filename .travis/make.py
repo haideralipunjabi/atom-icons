@@ -28,7 +28,7 @@ def make_readme():
     lines = lines[:target_index+1]
     series = json.load(open('.travis/series.json'))
     for s in series:
-        lines.append("### " + s['name'] + "\n")
+        lines.append("\n### " + s['name'] + "\n")
         lines.append("These icons were contributed by: [@" + s['contributor'] + "](https://github.com/"+s['contributor']+")\n\n")
         for file in os.listdir('svg'):
             if(file.split('_')[0] == s['prefix'] and file.endswith('.svg')):
