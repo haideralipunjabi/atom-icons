@@ -4,10 +4,14 @@ from PIL import Image
 import simplejson
 import json
 def make_linux():
+    if not os.path.exists('linux'):
+        os.makedirs('linux')
     for file in os.listdir('svg'):
         if file.endswith(".svg"):
             svg2png(url="svg/"+file, write_to="linux/" + file.split('.')[0] + ".png", parent_width=256, parent_height=256)
 def make_windows():
+    if not os.path.exists('windows'):
+        os.makedirs('windows')
     for file in os.listdir('linux'):
         if file.endswith(".png"):
                 Image.open("linux/"+file).save("windows/"+file.split('.')[0]+".ico")
