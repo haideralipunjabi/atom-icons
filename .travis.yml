@@ -1,18 +1,12 @@
-os:
-  - linux
-  - macos
-language: if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then python
+language: python
 python:
   - "3.6"
 
 # command to install dependencies
 install:
-  - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then npm install iconutil
-  - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then pip install -r .travis/requirements.txt
-
+  - pip install -r .travis/requirements.txt
 # command to run tests
 script:
-  - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then python .travis/make.py
-  - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then bash .travis/make_macOS.sh
+  - python .travis/make.py
 after_script:
-  -bash .travis/push.sh
+  - bash .travis/push.sh
