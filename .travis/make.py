@@ -36,6 +36,6 @@ def make_readme():
     lines.append("\n")
     lines.extend(endlines)
     print(' '.join(lines), file=open('README.md', 'w'))
-# make_linux()
-# make_windows()
+make_linux()
+make_windows()
 make_readme()
