@@ -29,7 +29,7 @@ def make_readme():
     series = json.load(open('.travis/series.json'))
     for s in series:
         lines.append("### " + s['name'] + "\n")
-        lines.append("These icons were contributed by: @" + s['contributor'] + "\n  ")
+        lines.append("These icons were contributed by: [@" + s['contributor'] + "](https://github.com/"+s['contributor']+")\n    ")
         for file in os.listdir('svg'):
             if(file.split('_')[0] == s['prefix'] and file.endswith('.svg')):
                 lines.append("<img alt=\"%s\" src=\"%s\" width=\"128px\">"%(file, 'svg/'+file))
