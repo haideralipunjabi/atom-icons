@@ -16,9 +16,12 @@ def make_windows():
         if file.endswith(".png"):
                 Image.open("linux/"+file).save("windows/"+file.split('.')[0]+".ico")
 
-#def make_macOS():
-    # TODO: macOS generation pending, until I can find a way to convert SVG/PNG to ICNS
-
+def make_macOS():
+    if not os.path.exists('macOS'):
+        os.makedirs('macOS')
+    for file in os.listdir('linux'):
+        if file.endswith(".png"):
+                Image.open("linux/"+file).save("macOS/"+file.split('.')[0]+".icns")
 
 def make_readme():
     readme = open('READMETEMPLATE.md', 'r+')
@@ -42,4 +45,5 @@ def make_readme():
     print(' '.join(lines), file=open('README.md', 'w'))
 make_linux()
 make_windows()
+make_macOS()
 make_readme()
