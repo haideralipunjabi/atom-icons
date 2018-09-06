@@ -4,8 +4,8 @@
  ## Available Icons
  ### Material Series
  These icons were contributed by: @haideralipunjabi
- ### Others
- ![blackonwhite.svg](svg/blackonwhite.svg) ![whiteonblack.svg](svg/whiteonblack.svg) 
+ <img alt="material_amber.svg" src="svg/material_amber.svg" width="128px" <img alt="material_blue.svg" src="svg/material_blue.svg" width="128px" <img alt="material_bluegrey.svg" src="svg/material_bluegrey.svg" width="128px" <img alt="material_brown.svg" src="svg/material_brown.svg" width="128px" <img alt="material_cyan.svg" src="svg/material_cyan.svg" width="128px" <img alt="material_deeporange.svg" src="svg/material_deeporange.svg" width="128px" <img alt="material_deeppurple.svg" src="svg/material_deeppurple.svg" width="128px" <img alt="material_green.svg" src="svg/material_green.svg" width="128px" <img alt="material_grey.svg" src="svg/material_grey.svg" width="128px" <img alt="material_indigo.svg" src="svg/material_indigo.svg" width="128px" <img alt="material_lightblue.svg" src="svg/material_lightblue.svg" width="128px" <img alt="material_lightgreen.svg" src="svg/material_lightgreen.svg" width="128px" <img alt="material_lime.svg" src="svg/material_lime.svg" width="128px" <img alt="material_orange.svg" src="svg/material_orange.svg" width="128px" <img alt="material_pink.svg" src="svg/material_pink.svg" width="128px" <img alt="material_purple.svg" src="svg/material_purple.svg" width="128px" <img alt="material_red.svg" src="svg/material_red.svg" width="128px" <img alt="material_teal.svg" src="svg/material_teal.svg" width="128px" <img alt="material_yellow.svg" src="svg/material_yellow.svg" width="128px" ### Others
+ <img alt="blackonwhite.svg" src="svg/blackonwhite.svg" width="128px" <img alt="whiteonblack.svg" src="svg/whiteonblack.svg" width="128px" 
  
  ## How to Contribute
  * Different Color Icon:
