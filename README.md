@@ -15,6 +15,7 @@
 
 
 ### Based on popular themes
+These icons were contributed by: [@noudadrichem](https://github.com/noudadrichem)
 <img title="city_lights_dark.svg" src="svg/city_lights_dark.svg" width="128px" height="128px"> <img title="city_lights_lights.svg" src="svg/city_lights_light.svg" width="128px" height="128px">
 ### Others
  <img title="blackonwhite.svg" src="svg/blackonwhite.svg" width="128px"> <img title="whiteonblack.svg" src="svg/whiteonblack.svg" width="128px">
