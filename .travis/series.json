@@ -8,5 +8,10 @@
     "name": "Social Media Series",
     "contributor": "haideralipunjabi",
     "prefix":"social"
+  },
+  {
+    "name":"Popular Themes",
+    "contributor": "haideralipunjabi",
+    "prefix":"poptheme"
   }
 ]
