@@ -11,14 +11,15 @@
 ### Social Media Series
  These icons were contributed by: [@haideralipunjabi](https://github.com/haideralipunjabi)
 
- <img title="social_facebook.svg" src="svg/social_facebook.svg" width="128px"> <img title="social_medium.svg" src="svg/social_medium.svg" width="128px"> <img title="social_reddit.svg" src="svg/social_reddit.svg" width="128px"> <img title="social_snapchat.svg" src="svg/social_snapchat.svg" width="128px"> <img title="social_twitter.svg" src="svg/social_twitter.svg" width="128px"> <img title="social_whatsapp.svg" src="svg/social_whatsapp.svg" width="128px"> <img title="social_wordpress.svg" src="svg/social_wordpress.svg" width="128px"> <img title="social_youtube.svg" src="svg/social_youtube.svg" width="128px">
+ <img title="social_facebook.svg" src="svg/social_facebook.svg" width="128px">
+ <img title="social_medium.svg" src="svg/social_medium.svg" width="128px">
+ <img title="social_reddit.svg" src="svg/social_reddit.svg" width="128px">
+ <img title="social_snapchat.svg" src="svg/social_snapchat.svg" width="128px"> <img title="social_twitter.svg" src="svg/social_twitter.svg" width="128px"> <img title="social_whatsapp.svg" src="svg/social_whatsapp.svg" width="128px"> <img title="social_wordpress.svg" src="svg/social_wordpress.svg" width="128px"> <img title="social_youtube.svg" src="svg/social_youtube.svg" width="128px">
 
 
 ### Based on popular themes
-<img title="city-lights-dark.svg" src="svg/city-lights-dark.svg" width="128px">
-<img title="city-lights-lights.svg" src="svg/city-lights-lights.svg" width="128px">
-
-<img title="city-lights-dark.svg" src="svg/city-lights-dark.svg" width="128px"> <img title="whiteonblack.svg" src="svg/whiteonblack.svg" width="128px">
+<img title="city_lights_dark.svg" src="svg/city_lights_dark.svg" width="128px">
+<img title="city_lights_lights.svg" src="svg/city_lights_lights.svg" width="128px">
 ### Others
  <img title="blackonwhite.svg" src="svg/blackonwhite.svg" width="128px"> <img title="whiteonblack.svg" src="svg/whiteonblack.svg" width="128px">
 
