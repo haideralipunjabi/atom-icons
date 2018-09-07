@@ -14,9 +14,14 @@
  <img title="social_facebook.svg" src="svg/social_facebook.svg" width="128px"><img title="social_medium.svg" src="svg/social_medium.svg" width="128px"> <img title="social_reddit.svg" src="svg/social_reddit.svg" width="128px"><img title="social_snapchat.svg" src="svg/social_snapchat.svg" width="128px"> <img title="social_twitter.svg" src="svg/social_twitter.svg" width="128px"> <img title="social_whatsapp.svg" src="svg/social_whatsapp.svg" width="128px"> <img title="social_wordpress.svg" src="svg/social_wordpress.svg" width="128px"> <img title="social_youtube.svg" src="svg/social_youtube.svg" width="128px">
 
 
-### Based on popular themes
+### Based on City Lights theme
 These icons were contributed by: [@noudadrichem](https://github.com/noudadrichem)
 <img title="city_lights_dark.svg" src="svg/city_lights_dark.svg" width="128px" height="128px"> <img title="city_lights_lights.svg" src="svg/city_lights_light.svg" width="128px" height="128px">
+
+### Popular Themes
+ These icons were contributed by: [@haideralipunjabi](https://github.com/haideralipunjabi)
+
+ <img title="poptheme_city-lights-one.svg" src="svg/poptheme_city-lights-one.svg" width="128px"> <img title="poptheme_city-lights-two.svg" src="svg/poptheme_city-lights-two.svg" width="128px"> <img title="poptheme_city-lights.svg" src="svg/poptheme_city-lights.svg" width="128px"> <img title="poptheme_cobalt2.svg" src="svg/poptheme_cobalt2.svg" width="128px"> <img title="poptheme_dracula-five.svg" src="svg/poptheme_dracula-five.svg" width="128px"> <img title="poptheme_dracula-four.svg" src="svg/poptheme_dracula-four.svg" width="128px"> <img title="poptheme_dracula-one.svg" src="svg/poptheme_dracula-one.svg" width="128px"> <img title="poptheme_dracula-three.svg" src="svg/poptheme_dracula-three.svg" width="128px"> <img title="poptheme_dracula-two.svg" src="svg/poptheme_dracula-two.svg" width="128px"> <img title="poptheme_dracula.svg" src="svg/poptheme_dracula.svg" width="128px"> <img title="poptheme_levelup.svg" src="svg/poptheme_levelup.svg" width="128px"> <img title="poptheme_monokai-pro.svg" src="svg/poptheme_monokai-pro.svg" width="128px"> <img title="poptheme_night-owl.svg" src="svg/poptheme_night-owl.svg" width="128px"> <img title="poptheme_oceanic-next.svg" src="svg/poptheme_oceanic-next.svg" width="128px">
 ### Others
  <img title="blackonwhite.svg" src="svg/blackonwhite.svg" width="128px"> <img title="whiteonblack.svg" src="svg/whiteonblack.svg" width="128px">
 
