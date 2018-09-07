@@ -16,6 +16,7 @@
 
 ### Based on City Lights theme
 These icons were contributed by: [@noudadrichem](https://github.com/noudadrichem)
+
 <img title="city_lights_dark.svg" src="svg/city_lights_dark.svg" width="128px" height="128px"> <img title="city_lights_lights.svg" src="svg/city_lights_light.svg" width="128px" height="128px">
 
 ### Popular Themes
