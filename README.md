@@ -1,5 +1,4 @@
 # Atom App Icons
-![Travis CI](https://travis-ci.org/HackeSta/atom-icons.svg?branch=master)  
  A project for custom [Atom](https://atom.io) Icons. All Rights Reserved with [Github](https://github.com) and the respective owners of the themes I am using.
  Inspired from [vscode-icons](https://github.com/dhanishgajjar/vscode-icons), a similar project for [Visual Studio Code](https://code.visualstudio.com/) by [@dhanishgajjar](https://github.com/dhanishgajjar/)
  
@@ -21,6 +20,10 @@
  These icons were contributed by: [@noudadrichem](https://github.com/noudadrichem)
 
  <img title="citylights_dark.svg" src="svg/citylights_dark.svg" width="128px"> <img title="citylights_light.svg" src="svg/citylights_light.svg" width="128px"> 
+### Harry Potter
+ These icons were contributed by: [@haideralipunjabi](https://github.com/haideralipunjabi)
+
+ <img title="hp_gryffindor.svg" src="svg/hp_gryffindor.svg" width="128px"> <img title="hp_gryffindor_alt.svg" src="svg/hp_gryffindor_alt.svg" width="128px"> <img title="hp_hogwarts.svg" src="svg/hp_hogwarts.svg" width="128px"> <img title="hp_hufflepuff.svg" src="svg/hp_hufflepuff.svg" width="128px"> <img title="hp_hufflepuff_alt.svg" src="svg/hp_hufflepuff_alt.svg" width="128px"> <img title="hp_ravenclaw.svg" src="svg/hp_ravenclaw.svg" width="128px"> <img title="hp_ravenclaw_alt.svg" src="svg/hp_ravenclaw_alt.svg" width="128px"> <img title="hp_slytherin.svg" src="svg/hp_slytherin.svg" width="128px"> <img title="hp_slytherin_alt.svg" src="svg/hp_slytherin_alt.svg" width="128px"> 
 ### Others
  <img title="blackonwhite.svg" src="svg/blackonwhite.svg" width="128px"> <img title="whiteonblack.svg" src="svg/whiteonblack.svg" width="128px"> 
  
