@@ -23,5 +23,10 @@
     "name":"Harry Potter",
     "contributor":"haideralipunjabi",
     "prefix":"hp"
+  },
+  {
+    "name":"Flags of Countries",
+    "contributor":"haideralipunjabi",
+    "prefix":"flag"
   }
 ]
