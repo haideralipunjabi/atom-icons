@@ -13,5 +13,10 @@
     "name":"Popular Themes",
     "contributor": "haideralipunjabi",
     "prefix":"poptheme"
+  },
+  {
+   "name":"Citylights",
+    "contributor":"noudadrichem",
+    "prefix":"citylights"
   }
 ]
