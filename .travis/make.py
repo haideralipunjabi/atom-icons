@@ -3,6 +3,7 @@ import os
 from PIL import Image
 import simplejson
 import json
+import random
 
 ICNS_SIZES = [
 [16,72,],
@@ -54,9 +55,16 @@ def make_readme():
     for s in series:
         lines.append("\n### " + s['name'] + "\n")
         lines.append("These icons were contributed by: [@" + s['contributor'] + "](https://github.com/"+s['contributor']+")\n\n")
+        files = []
         for file in os.listdir('svg'):
             if(file.split('_')[0] == s['prefix'] and file.endswith('.svg')):
-                lines.append("<img title=\"%s\" src=\"%s\" width=\"128px\">"%(file, 'svg/'+file))
+                files.append(file)
+        len = files.__len__()
+        if(len > 16):
+            random.shuffle(files)
+            len = 16
+        for i in range(0,len):
+            lines.append("<img title=\"%s\" src=\"%s\" width=\"128px\">"%(files[i], 'svg/'+files[i]))
     lines.append("\n### Others\n")
     for file in os.listdir('svg'):
         if(not file.__contains__('_') and file.endswith('.svg')):
