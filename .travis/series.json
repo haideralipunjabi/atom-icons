@@ -28,5 +28,10 @@
     "name":"Flags of Countries",
     "contributor":"haideralipunjabi",
     "prefix":"flag"
+  },
+  {
+    "name":"Gitlab",
+    "contributor":"maticbasle",
+    "prefix":"gitlab"
   }
 ]
