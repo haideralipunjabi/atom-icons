@@ -33,5 +33,10 @@
     "name":"Gitlab",
     "contributor":"maticbasle",
     "prefix":"gitlab"
+  },
+  {
+    "name":"Apps",
+    "contributor":"haideralipunjabi",
+    "prefix":"app"
   }
 ]
