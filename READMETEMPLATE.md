@@ -1,9 +1,12 @@
-# Atom App Icons
+# Atom App Icons  
+![Travis CI](https://travis-ci.org/HackeSta/atom-icons.svg?branch=master)  
 A project for custom [Atom](https://atom.io) Icons. All Rights Reserved with [Github](https://github.com) and the respective owners of the themes I am using.
 Inspired from [vscode-icons](https://github.com/dhanishgajjar/vscode-icons), a similar project for [Visual Studio Code](https://code.visualstudio.com/) by [@dhanishgajjar](https://github.com/dhanishgajjar/)
 
 ## Available Icons
 
+## Additional Resources
+* The Flags of Countries was generated using [Atom Flag Icons Generator](https://gist.github.com/haideralipunjabi/b072aa4a8e28a78392e7e83b18575d2b)
 ## How to Contribute
 
 ### Making Icons

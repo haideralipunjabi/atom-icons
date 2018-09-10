@@ -1,4 +1,5 @@
-# Atom App Icons
+# Atom App Icons  
+ ![Travis CI](https://travis-ci.org/HackeSta/atom-icons.svg?branch=master)  
  A project for custom [Atom](https://atom.io) Icons. All Rights Reserved with [Github](https://github.com) and the respective owners of the themes I am using.
  Inspired from [vscode-icons](https://github.com/dhanishgajjar/vscode-icons), a similar project for [Visual Studio Code](https://code.visualstudio.com/) by [@dhanishgajjar](https://github.com/dhanishgajjar/)
  
@@ -7,7 +8,7 @@
 ### Material Series
  These icons were contributed by: [@haideralipunjabi](https://github.com/haideralipunjabi)
 
- <img title="material_lightgreen.svg" src="svg/material_lightgreen.svg" width="128px"> <img title="material_lightblue.svg" src="svg/material_lightblue.svg" width="128px"> <img title="material_deeporange.svg" src="svg/material_deeporange.svg" width="128px"> <img title="material_blue.svg" src="svg/material_blue.svg" width="128px"> <img title="material_green.svg" src="svg/material_green.svg" width="128px"> <img title="material_deeppurple.svg" src="svg/material_deeppurple.svg" width="128px"> <img title="material_grey.svg" src="svg/material_grey.svg" width="128px"> <img title="material_teal.svg" src="svg/material_teal.svg" width="128px"> <img title="material_indigo.svg" src="svg/material_indigo.svg" width="128px"> <img title="material_purple.svg" src="svg/material_purple.svg" width="128px"> <img title="material_orange.svg" src="svg/material_orange.svg" width="128px"> <img title="material_pink.svg" src="svg/material_pink.svg" width="128px"> <img title="material_amber.svg" src="svg/material_amber.svg" width="128px"> <img title="material_yellow.svg" src="svg/material_yellow.svg" width="128px"> <img title="material_lime.svg" src="svg/material_lime.svg" width="128px"> <img title="material_red.svg" src="svg/material_red.svg" width="128px"> 
+ <img title="material_bluegrey.svg" src="svg/material_bluegrey.svg" width="128px"> <img title="material_deeppurple.svg" src="svg/material_deeppurple.svg" width="128px"> <img title="material_lightblue.svg" src="svg/material_lightblue.svg" width="128px"> <img title="material_teal.svg" src="svg/material_teal.svg" width="128px"> <img title="material_blue.svg" src="svg/material_blue.svg" width="128px"> <img title="material_orange.svg" src="svg/material_orange.svg" width="128px"> <img title="material_lightgreen.svg" src="svg/material_lightgreen.svg" width="128px"> <img title="material_purple.svg" src="svg/material_purple.svg" width="128px"> <img title="material_pink.svg" src="svg/material_pink.svg" width="128px"> <img title="material_red.svg" src="svg/material_red.svg" width="128px"> <img title="material_green.svg" src="svg/material_green.svg" width="128px"> <img title="material_amber.svg" src="svg/material_amber.svg" width="128px"> <img title="material_cyan.svg" src="svg/material_cyan.svg" width="128px"> <img title="material_brown.svg" src="svg/material_brown.svg" width="128px"> <img title="material_yellow.svg" src="svg/material_yellow.svg" width="128px"> <img title="material_grey.svg" src="svg/material_grey.svg" width="128px"> 
 ### Social Media Series
  These icons were contributed by: [@haideralipunjabi](https://github.com/haideralipunjabi)
 
@@ -27,10 +28,16 @@
 ### Flags of Countries
  These icons were contributed by: [@haideralipunjabi](https://github.com/haideralipunjabi)
 
- <img title="flag_Mali-2.svg" src="svg/flag_Mali-2.svg" width="128px"> <img title="flag_Swaziland.svg" src="svg/flag_Swaziland.svg" width="128px"> <img title="flag_Serbia.svg" src="svg/flag_Serbia.svg" width="128px"> <img title="flag_United-Arab-Emirates-1.svg" src="svg/flag_United-Arab-Emirates-1.svg" width="128px"> <img title="flag_Saint-Kitts-and-Nevis.svg" src="svg/flag_Saint-Kitts-and-Nevis.svg" width="128px"> <img title="flag_Indonesia-4.svg" src="svg/flag_Indonesia-4.svg" width="128px"> <img title="flag_Estonia-1.svg" src="svg/flag_Estonia-1.svg" width="128px"> <img title="flag_Congo-3.svg" src="svg/flag_Congo-3.svg" width="128px"> <img title="flag_Ivory-Coast-2.svg" src="svg/flag_Ivory-Coast-2.svg" width="128px"> <img title="flag_Sierra-Leone-1.svg" src="svg/flag_Sierra-Leone-1.svg" width="128px"> <img title="flag_Madagascar-2.svg" src="svg/flag_Madagascar-2.svg" width="128px"> <img title="flag_Jamaica-3.svg" src="svg/flag_Jamaica-3.svg" width="128px"> <img title="flag_Philippines-2.svg" src="svg/flag_Philippines-2.svg" width="128px"> <img title="flag_Cameroon.svg" src="svg/flag_Cameroon.svg" width="128px"> <img title="flag_São-Tomé-and-Príncipe.svg" src="svg/flag_São-Tomé-and-Príncipe.svg" width="128px"> <img title="flag_Paraguay-1.svg" src="svg/flag_Paraguay-1.svg" width="128px"> 
+ <img title="flag_Belgium-1.svg" src="svg/flag_Belgium-1.svg" width="128px"> <img title="flag_Eritrea.svg" src="svg/flag_Eritrea.svg" width="128px"> <img title="flag_Honduras.svg" src="svg/flag_Honduras.svg" width="128px"> <img title="flag_Australia.svg" src="svg/flag_Australia.svg" width="128px"> <img title="flag_Moldova-2.svg" src="svg/flag_Moldova-2.svg" width="128px"> <img title="flag_Sahrawi-Arab-Democratic-Republic-1.svg" src="svg/flag_Sahrawi-Arab-Democratic-Republic-1.svg" width="128px"> <img title="flag_Panama.svg" src="svg/flag_Panama.svg" width="128px"> <img title="flag_Malta.svg" src="svg/flag_Malta.svg" width="128px"> <img title="flag_Moldova-1.svg" src="svg/flag_Moldova-1.svg" width="128px"> <img title="flag_United-Arab-Emirates-3.svg" src="svg/flag_United-Arab-Emirates-3.svg" width="128px"> <img title="flag_Guinea-Bissau-1.svg" src="svg/flag_Guinea-Bissau-1.svg" width="128px"> <img title="flag_Costa-Rica-1.svg" src="svg/flag_Costa-Rica-1.svg" width="128px"> <img title="flag_Peru.svg" src="svg/flag_Peru.svg" width="128px"> <img title="flag_Monaco-3.svg" src="svg/flag_Monaco-3.svg" width="128px"> <img title="flag_Madagascar-3.svg" src="svg/flag_Madagascar-3.svg" width="128px"> <img title="flag_Philippines-1.svg" src="svg/flag_Philippines-1.svg" width="128px"> 
+### Gitlab
+ These icons were contributed by: [@maticbasle](https://github.com/maticbasle)
+
+ <img title="gitlab_orange.svg" src="svg/gitlab_orange.svg" width="128px"> <img title="gitlab_purple.svg" src="svg/gitlab_purple.svg" width="128px"> 
 ### Others
  <img title="blackonwhite.svg" src="svg/blackonwhite.svg" width="128px"> <img title="whiteonblack.svg" src="svg/whiteonblack.svg" width="128px"> 
  
+ ## Additional Resources
+ * The Flags of Countries was generated using [Atom Flag Icons Generator](https://gist.github.com/haideralipunjabi/b072aa4a8e28a78392e7e83b18575d2b)
  ## How to Contribute
  
  ### Making Icons

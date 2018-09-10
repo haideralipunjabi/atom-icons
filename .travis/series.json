@@ -30,8 +30,14 @@
     "prefix":"flag"
   },
   {
+<<<<<<< HEAD
     "name":"Apps",
     "contributor":"haideralipunjabi",
     "prefix":"app"
+=======
+    "name":"Gitlab",
+    "contributor":"maticbasle",
+    "prefix":"gitlab"
+>>>>>>> bb76e2c9f5907117d0d8a079b2064c7371108ceb
   }
 ]
