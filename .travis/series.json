@@ -28,5 +28,10 @@
     "name":"Flags of Countries",
     "contributor":"haideralipunjabi",
     "prefix":"flag"
+  },
+  {
+    "name":"Apps",
+    "contributor":"haideralipunjabi",
+    "prefix":"app"
   }
 ]
