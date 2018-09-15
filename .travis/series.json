@@ -38,5 +38,10 @@
     "name":"Apps",
     "contributor":"haideralipunjabi",
     "prefix":"app"
+  },
+  {
+    "name":"[The Coding Train](http://thecodingtrain.com/)",
+    "contributor":"haideralipunjabi",
+    "prefix":"ct"
   }
 ]
