@@ -43,5 +43,10 @@
     "name":"[The Coding Train](http://thecodingtrain.com/)",
     "contributor":"haideralipunjabi",
     "prefix":"ct"
+  },
+  {
+    "name":"English Premier League",
+    "contributor":"haideralipunjabi",
+    "prefix":"epl"
   }
 ]
