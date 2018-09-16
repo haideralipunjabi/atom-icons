@@ -60,7 +60,7 @@ def make_readme():
                 files.append(file)
         len = files.__len__()
         lines.append("\n### " + s['name'] +"\n")
-        lines.append("These icons were contributed by: [@" + s['contributor'] + "](https://github.com/"+s['contributor']+")\n")
+        lines.append("These icons were contributed by: [@" + s['contributor'] + "](https://github.com/"+s['contributor']+")  \n\n")
         lines.append("Icons in this series: " + str(len) + "\n\n")
 
         if(len > 16):
