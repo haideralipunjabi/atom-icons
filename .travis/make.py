@@ -51,15 +51,18 @@ def make_readme():
     target_index = lines.index("## Available Icons\n")
     endlines = lines[target_index+1:]
     lines = lines[:target_index+1]
+    lines.append("Total Icons Available: " +    str(os.listdir('svg').__len__()) + "\n")
     series = json.load(open('.travis/series.json'))
     for s in series:
-        lines.append("\n### " + s['name'] + "\n")
-        lines.append("These icons were contributed by: [@" + s['contributor'] + "](https://github.com/"+s['contributor']+")\n\n")
         files = []
         for file in os.listdir('svg'):
             if(file.split('_')[0] == s['prefix'] and file.endswith('.svg')):
                 files.append(file)
         len = files.__len__()
+        lines.append("\n### " + s['name'] +"\n")
+        lines.append("These icons were contributed by: [@" + s['contributor'] + "](https://github.com/"+s['contributor']+")\n")
+        lines.append("Icons in this series: " + str(len) + "\n\n\")
+
         if(len > 16):
             random.shuffle(files)
             len = 16
