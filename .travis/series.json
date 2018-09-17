@@ -48,5 +48,10 @@
     "name":"English Premier League",
     "contributor":"haideralipunjabi",
     "prefix":"epl"
+  },
+ {
+    "name":"La Liga",
+    "contributor":"haideralipunjabi",
+    "prefix":"laliga"
   }
 ]
