@@ -7,6 +7,8 @@ Inspired from [vscode-icons](https://github.com/dhanishgajjar/vscode-icons), a s
 
 ## Additional Resources
 * The Flags of Countries was generated using [Atom Flag Icons Generator](https://gist.github.com/haideralipunjabi/b072aa4a8e28a78392e7e83b18575d2b)
+* The English Premier League Icons were generated using [Atom EPL Icons Generator](https://gist.github.com/haideralipunjabi/74ef6131e6602617d8d442d2a8c2e1b2)  
+
 ## How to Contribute
 
 ### Making Icons
