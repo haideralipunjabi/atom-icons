@@ -8,6 +8,10 @@ Inspired from [vscode-icons](https://github.com/dhanishgajjar/vscode-icons), a s
 ## Non Series Contributions   
 * [Tottenham-Hotspur-2](https://github.com/HackeSta/atom-icons/blob/master/svg/epl_Tottenham-Hotspur-2.svg) by [@bvwells](https://github.com/bvwells)
 * [fade-to-black](https://github.com/HackeSta/atom-icons/blob/master/svg/fade-to-black.svg) by [@TileThePlane](https://github.com/TileThePlane)
+* [@BrendanCarlin](https://github.com/BrendanCarlin): 
+    * [black-on-gradient-blue](https://github.com/HackeSta/atom-icons/blob/master/svg/black-on-gradient-blue.svg)
+    * [blue-on-white](https://github.com/HackeSta/atom-icons/blob/master/svg/blue-on-white.svg)
+    * [white-on-orange](https://github.com/HackeSta/atom-icons/blob/master/svg/white-on-orange.svg)
 
 ## Additional Resources
 * The Flags of Countries was generated using [Atom Flag Icons Generator](https://gist.github.com/haideralipunjabi/b072aa4a8e28a78392e7e83b18575d2b)
