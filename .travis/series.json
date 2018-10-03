@@ -58,5 +58,10 @@
     "name":"Avatar",
     "contributor":"Tsardines",
     "prefix":"avatar"
+  },
+  {
+    "name":"Star Wars",
+    "contributor":"TileThePlane",
+    "prefix":"starwars"
   }
 ]
