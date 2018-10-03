@@ -5,6 +5,10 @@ Inspired from [vscode-icons](https://github.com/dhanishgajjar/vscode-icons), a s
 
 ## Available Icons
 
+## Non Series Contributions   
+* [Tottenham-Hotspur-2](https://github.com/HackeSta/atom-icons/blob/master/svg/epl_Tottenham-Hotspur-2.svg) by [@bvwells](https://github.com/bvwells)
+* [fade-to-black](https://github.com/HackeSta/atom-icons/blob/master/svg/fade-to-black.svg) by [@TileThePlane](https://github.com/TileThePlane)
+
 ## Additional Resources
 * The Flags of Countries was generated using [Atom Flag Icons Generator](https://gist.github.com/haideralipunjabi/b072aa4a8e28a78392e7e83b18575d2b)
 * The Football/Soccer League Icons were generated using [Atom Football Icons Generator](https://gist.github.com/haideralipunjabi/74ef6131e6602617d8d442d2a8c2e1b2)  
