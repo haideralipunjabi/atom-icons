@@ -12,6 +12,11 @@ Inspired from [vscode-icons](https://github.com/dhanishgajjar/vscode-icons), a s
     * [black-on-gradient-blue](https://github.com/HackeSta/atom-icons/blob/master/svg/black-on-gradient-blue.svg)
     * [blue-on-white](https://github.com/HackeSta/atom-icons/blob/master/svg/blue-on-white.svg)
     * [white-on-orange](https://github.com/HackeSta/atom-icons/blob/master/svg/white-on-orange.svg)
+* [@AlexandruValeanu](https://github.com/AlexandruValeanu):
+    * [laliga_Sevilla-FC-1](https://github.com/HackeSta/atom-icons/blob/master/svg/laliga_Sevilla-FC-1.svg)
+    * [laliga_Sevilla-FC-2](https://github.com/HackeSta/atom-icons/blob/master/svg/laliga_Sevilla-FC-2.svg)
+    * [laliga_Sevilla-FC-3](https://github.com/HackeSta/atom-icons/blob/master/svg/laliga_Sevilla-FC-3.svg)
+
 
 ## Additional Resources
 * The Flags of Countries was generated using [Atom Flag Icons Generator](https://gist.github.com/haideralipunjabi/b072aa4a8e28a78392e7e83b18575d2b)
