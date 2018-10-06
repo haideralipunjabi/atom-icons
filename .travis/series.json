@@ -63,5 +63,10 @@
     "name":"Star Wars",
     "contributor":"TileThePlane",
     "prefix":"starwars"
+  },
+  {
+    "name":"Video Games",
+    "contributor":"maticbasle",
+    "prefix":"games"
   }
 ]
