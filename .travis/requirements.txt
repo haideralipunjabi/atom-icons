@@ -1,3 +1,4 @@
 cairosvg
 Pillow
 simplejson
+requests
