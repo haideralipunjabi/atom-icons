@@ -6,7 +6,7 @@ from xml.dom import minidom
 errors = []
 
 def raise_errors():
-    url = "https://api.github.com/repos/hackesta/atom-icons/issues/"+os.environ.TRAVIS_PULL_REQUEST+"/comments"
+    url = "https://api.github.com/repos/hackesta/atom-icons/issues/"+os.environ['TRAVIS_PULL_REQUEST']+"/comments"
     if errors.__len__() > 0:
         for i in range(0, errors.__len__() -1):
             errors[i] = errors[i] + " \n "
@@ -17,7 +17,7 @@ def raise_errors():
         requests.post(url,data)
 
 def list_files():
-    url = "https://api.github.com/repos/hackesta/atom-icons/commits/" + os.environ.TRAVIS_PULL_REQUEST_SHA + "?access_token=" + os.environ.GH_TOKEN
+    url = "https://api.github.com/repos/hackesta/atom-icons/commits/" + os.environ['TRAVIS_PULL_REQUEST_SHA'] + "?access_token=" + os.environ['GH_TOKEN']
     data = requests.get(url).json()
     files = []
     for file in data['files']:
