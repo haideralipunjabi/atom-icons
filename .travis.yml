@@ -8,5 +8,6 @@ install:
 # command to run tests
 script:
   - python .travis/make.py
+  - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then python .travis/prtests.py; fi'
 after_script:
   - bash .travis/push.sh
