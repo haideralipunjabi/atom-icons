@@ -83,9 +83,9 @@ def make_readme():
         if c['contributions'].__len__() == 1:
             lines.append("* [%s](svg/%s.svg) by [@%s](https://github.com/%s)\n"%(c['contributions'][0],c['contributions'][0],c['name'],c['name']))
         else:
-            lines.append("* [@%s](https://github.com/%s\n)"%(c['name'], c['name']))
+            lines.append("* [@%s](https://github.com/%s)\n"%(c['name'], c['name']))
             for contribution in c['contributions']:
-                lines.append("* [%s](svg/%s.svg)\n"%(contribution,contribution))
+                lines.append("    * [%s](svg/%s.svg)\n"%(contribution,contribution))
     lines.append("\n")
     lines.extend(endlines)
     print(' '.join(lines), file=open('README.md', 'w'))
@@ -112,8 +112,8 @@ def make_listoffiles():
     print(files)
     json.dump(files_data, fp=open(".travis/files.json","w"))
 
-make_linux()
-make_windows()
+# make_linux()
+# make_windows()
 # prep_macOS()
 make_readme()
-make_listoffiles()
+# make_listoffiles()

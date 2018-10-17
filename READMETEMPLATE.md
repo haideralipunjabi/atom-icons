@@ -5,8 +5,7 @@ Inspired from [vscode-icons](https://github.com/dhanishgajjar/vscode-icons), a s
 
 ## Available Icons
 
-## Non Series Contributions   
-
+## Non Series Contributions
 
 ## Additional Resources
 * The Flags of Countries was generated using [Atom Flag Icons Generator](https://gist.github.com/haideralipunjabi/b072aa4a8e28a78392e7e83b18575d2b)
