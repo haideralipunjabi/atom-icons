@@ -8,6 +8,7 @@ commit_files() {
   git add linux/*.*
   git add macOS/*.*
   git add windows/*.*
+  git add .travis/*.json
   git add README.md
   git commit --message "[ci skip] Travis build: $TRAVIS_BUILD_NUMBER"
 }
