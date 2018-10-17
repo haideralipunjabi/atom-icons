@@ -92,28 +92,26 @@ def make_readme():
 
 def make_listoffiles():
     files = []
-    for file in os.listdir('svg'
-    ):
+    for file in os.listdir('svg'):
         if file.endswith('.svg'):
-            files.append(file)
+            files.append(file.split('.')[0])
     files_data = {}
     nonseries = json.load(open('.travis/nonseries.json'))
     for c in nonseries:
         for contribution in c['contributions']:
-            if files.__contains__(contribution + ".svg"):
-                files_data[contribution + ".svg"] = c['name']
-                files.remove(contribution + ".svg")
+            if files.__contains__(contribution):
+                files_data[contribution] = c['name']
+                files.remove(contribution)
     series = json.load(open('.travis/series.json'))
     for s in series:
         for file in list(files):
             if file.split('_')[0] == s['prefix']:
                 files_data[file] = s['contributor']
                 files.remove(file)
-    print(files)
     json.dump(files_data, fp=open(".travis/files.json","w"))
 
-# make_linux()
-# make_windows()
+make_linux()
+make_windows()
 # prep_macOS()
 make_readme()
-# make_listoffiles()
+make_listoffiles()
