@@ -6,16 +6,6 @@ Inspired from [vscode-icons](https://github.com/dhanishgajjar/vscode-icons), a s
 ## Available Icons
 
 ## Non Series Contributions   
-* [Tottenham-Hotspur-2](https://github.com/HackeSta/atom-icons/blob/master/svg/epl_Tottenham-Hotspur-2.svg) by [@bvwells](https://github.com/bvwells)
-* [fade-to-black](https://github.com/HackeSta/atom-icons/blob/master/svg/fade-to-black.svg) by [@TileThePlane](https://github.com/TileThePlane)
-* [@BrendanCarlin](https://github.com/BrendanCarlin): 
-    * [black-on-gradient-blue](https://github.com/HackeSta/atom-icons/blob/master/svg/black-on-gradient-blue.svg)
-    * [blue-on-white](https://github.com/HackeSta/atom-icons/blob/master/svg/blue-on-white.svg)
-    * [white-on-orange](https://github.com/HackeSta/atom-icons/blob/master/svg/white-on-orange.svg)
-* [@AlexandruValeanu](https://github.com/AlexandruValeanu):
-    * [laliga_Sevilla-FC-1](https://github.com/HackeSta/atom-icons/blob/master/svg/laliga_Sevilla-FC-1.svg)
-    * [laliga_Sevilla-FC-2](https://github.com/HackeSta/atom-icons/blob/master/svg/laliga_Sevilla-FC-2.svg)
-    * [laliga_Sevilla-FC-3](https://github.com/HackeSta/atom-icons/blob/master/svg/laliga_Sevilla-FC-3.svg)
 
 
 ## Additional Resources

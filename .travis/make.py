@@ -74,8 +74,46 @@ def make_readme():
             lines.append("<img title=\"%s\" src=\"%s\" width=\"128px\">"%(file, 'svg/'+file))
     lines.append("\n")
     lines.extend(endlines)
+
+    target_index = lines.index("## Non Series Contributions\n")
+    endlines = lines[target_index+1:]
+    lines = lines[:target_index+1]
+    nonseries = json.load(open('.travis/nonseries.json'))
+    for c in nonseries:
+        if c['contributions'].__len__() == 1:
+            lines.append("* [%s](svg/%s.svg) by [@%s](https://github.com/%s)\n"%(c['contributions'][0],c['contributions'][0],c['name'],c['name']))
+        else:
+            lines.append("* [@%s](https://github.com/%s\n)"%(c['name'], c['name']))
+            for contribution in c['contributions']:
+                lines.append("* [%s](svg/%s.svg)\n"%(contribution,contribution))
+    lines.append("\n")
+    lines.extend(endlines)
     print(' '.join(lines), file=open('README.md', 'w'))
+
+def make_listoffiles():
+    files = []
+    for file in os.listdir('svg'
+    ):
+        if file.endswith('.svg'):
+            files.append(file)
+    files_data = {}
+    nonseries = json.load(open('.travis/nonseries.json'))
+    for c in nonseries:
+        for contribution in c['contributions']:
+            if files.__contains__(contribution + ".svg"):
+                files_data[contribution + ".svg"] = c['name']
+                files.remove(contribution + ".svg")
+    series = json.load(open('.travis/series.json'))
+    for s in series:
+        for file in list(files):
+            if file.split('_')[0] == s['prefix']:
+                files_data[file] = s['contributor']
+                files.remove(file)
+    print(files)
+    json.dump(files_data, fp=open(".travis/files.json","w"))
+
 make_linux()
 make_windows()
 # prep_macOS()
 make_readme()
+make_listoffiles()
