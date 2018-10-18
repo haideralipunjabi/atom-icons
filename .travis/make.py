@@ -114,10 +114,10 @@ def make_listoffiles():
 def make_statistics():
     stats = {}
     stats["icons"] = len([name for name in os.listdir('svg') if name.endswith('.svg')])
-    stats["prs"] = requests.get("https://api.github.com/repos/hackesta/atom-icons/pulls?state=all").json().__len__()
-    stats["contributors"] = requests.get("https://api.github.com/repos/hackesta/atom-icons/contributors").json().__len__()
-    stats["stargazers"] = requests.get("https://api.github.com/repos/hackesta/atom-icons/stargazers").json().__len__()
-    stats["forks"] = requests.get("https://api.github.com/repos/hackesta/atom-icons/forks").json().__len__()
+    stats["prs"] = requests.get("https://api.github.com/repos/hackesta/atom-icons/pulls?state=all&access_token="+os.environ['GH_TOKEN']).json().__len__()
+    stats["contributors"] = requests.get("https://api.github.com/repos/hackesta/atom-icons/contributors?access_token="+os.environ['GH_TOKEN']).json().__len__()
+    stats["stargazers"] = requests.get("https://api.github.com/repos/hackesta/atom-icons/stargazers?access_token="+os.environ['GH_TOKEN']).json().__len__()
+    stats["forks"] = requests.get("https://api.github.com/repos/hackesta/atom-icons/forks?access_token="+os.environ['GH_TOKEN']).json().__len__()
     json.dump(stats,fp=open(".travis/stats.json","w"))
 
 make_linux()
