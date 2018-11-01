@@ -8,7 +8,7 @@ Inspired from [vscode-icons](https://github.com/dhanishgajjar/vscode-icons), a s
 ## Non Series Contributions
 
 ## Additional Resources
-* The Flags of Countries was generated using [Atom Flag Icons Generator](https://gist.github.com/haideralipunjabi/b072aa4a8e28a78392e7e83b18575d2b)
+* The Flags of Countries were generated using [Atom Flag Icons Generator](https://gist.github.com/haideralipunjabi/b072aa4a8e28a78392e7e83b18575d2b)
 * The Football/Soccer League Icons were generated using [Atom Football Icons Generator](https://gist.github.com/haideralipunjabi/74ef6131e6602617d8d442d2a8c2e1b2)  
 
 ## How to Contribute
@@ -16,11 +16,11 @@ Inspired from [vscode-icons](https://github.com/dhanishgajjar/vscode-icons), a s
 ### Making Icons
 * You only need to submit an SVG file per icon, other formats will be generated using CI.
 * You may use [icon.svg](icon.svg) or any other SVG file from the repository as a base/reference.
-* Make sure the `width` & `height` attributes are removed from the SVG, they cause problems when resizing the SVG into other formats.
+* Make sure the `width` & `height` attributes are removed from the SVG, as they cause problems when resizing the SVG into other formats.
 * Ideal size for the icon is `512x512`  
 
 ### Naming Guidelines
-* If you are submitting the icon as part of a series, make sure to name it like `seriesname_iconname.svg`. No other `underscore (_)` should be used.
+* If you are submitting icons as part of a series, make sure to name it like `seriesname_iconname.svg`. No other `underscore (_)` should be used.
 * If you are submitting the icon without it being a part of any series, make sure to name it without any `underscore (_)`.
 
 ### Notes
@@ -33,7 +33,7 @@ Inspired from [vscode-icons](https://github.com/dhanishgajjar/vscode-icons), a s
 
 Download [Image2Icon](http://www.img2icnsapp.com/) app. Drop the  `svg` as source and export a `ICNS` file.
 
-Easiest way to change the icons is by using https://freemacsoft.net/liteicon/. Just Drag and Drop the custom icon and hit `Apply Changes`.
+The easiest way to change the icons is by using https://freemacsoft.net/liteicon/. Just Drag and Drop the custom icon and hit `Apply Changes`.
 
 Copy the `.icns` file you'd like to use. Find VS Code in your Applications folder, right click the icon and select `Get Info`. Click the icon in the top right corner so that a blue highlight appears around it. `⌘ + V` to paste the new icon in. It may take a few restarts of VS Code for the icon to take.
 
