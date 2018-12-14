@@ -73,5 +73,10 @@
     "name":"Marvel",
     "contributor":"haideralipunjabi",
     "prefix":"marvel"
+  },
+  {
+    "name":"No Color",
+    "contributor":"nextstepAR",
+    "prefix":"nocolor"
   }
 ]
