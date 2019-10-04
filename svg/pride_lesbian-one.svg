@@ -4,7 +4,7 @@
 	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#61C678;}
-	.st1{fill:#FFFFFF;}
+	.st1{fill:#51146A;}
 	.st2{opacity:0.5;}
 	.st3{fill:url(#SVGID_1_);}
 	.st4{fill:#A40061;}
@@ -21,15 +21,15 @@
 		<circle class="st0" cx="256" cy="256" r="256"/>
 	</g>
 </g>
-<g id="Outer_Overlay">
-	<g id="Outer_Circle_2_">
+<g id="Outer_Overlay_1_">
+	<g id="Outer_Circle_1_">
 		<circle class="st1" cx="256" cy="256" r="256"/>
 	</g>
 </g>
 <g id="Inner_Overlay">
 	<g id="Inner_Circle_1_" class="st2">
 		
-			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="174.913" y1="623.3948" x2="503.8181" y2="294.4898" gradientTransform="matrix(0.7071 0.7071 -0.7071 0.7071 339.984 -308.1835)">
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="258.852" y1="-34.0367" x2="587.7571" y2="294.8683" gradientTransform="matrix(0.7071 0.7071 0.7071 -0.7071 -136.1044 49.2007)">
 			<stop  offset="0" style="stop-color:#000000;stop-opacity:0"/>
 			<stop  offset="1" style="stop-color:#000000;stop-opacity:0.1"/>
 		</linearGradient>
