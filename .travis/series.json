@@ -78,5 +78,50 @@
     "name":"No Color",
     "contributor":"nextstepAR",
     "prefix":"nocolor"
+  },
+  {
+    "name":"Planets",
+    "contributor":"ejilee",
+    "prefix":"planets"
+  },
+  {
+    "name":"Primary",
+    "contributor":"peakgeek",
+    "prefix":"primary"
+  },
+  {
+    "name":"Pride",
+    "contributor":"CaelanBorowiec",
+    "prefix":"pride"
+  },
+  {
+    "name":"LigaMX",
+    "contributor":"estudioChispa",
+    "prefix":"ligamx"
+  },
+  {
+    "name":"Pantone",
+    "contributor":"t-howell",
+    "prefix":"pantone"
+  },
+  {
+    "name":"NFL",
+    "contributor":"MichaelCduBois",
+    "prefix":"nfl"
+  },
+  {
+    "name":"Indian Premier League",
+    "contributor":"frostcover",
+    "prefix":"ipl"
+  },
+  {
+    "name":"Atomay",
+    "contributor":"jerryshueh",
+    "prefix":"atomay"
+  },
+  {
+    "name":"iOS System",
+    "contributor":"rogonzalez",
+    "prefix":"ios-system"
   }
 ]
