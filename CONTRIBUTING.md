@@ -4,7 +4,7 @@
 * You only need to submit an SVG file per icon, other formats will be generated using CI.
 * You may use [icon.svg](icon.svg) or any other SVG file from the repository as a base/reference.
 * Make sure the `width` & `height` attributes are removed from the SVG, they cause problems when resizing the SVG into other formats.
-* Ideal size for the icon is `512x512`  
+* Ideal size for the icon is `512x512`.
 
 ## Naming Guidelines
 * If you are submitting the icon as part of a series, make sure to name it like `seriesname_iconname.svg`. No other `underscore (_)` should be used.
